@@ -1,0 +1,26 @@
+<movies>
+    <movie id="1">
+        <name> "The Fast And The Furious" </name>
+        <genre> "Action" </genre>
+        <MainActors>
+            <actor name="Vin Diesel" gender="male" CharacterName="Dominic Toretto"/>
+            <actor name="Paul Walker" gender="male" CharacterName="Brian O'Connor"/>
+            <actor name="Tyrese Gibson" gender="male" CharacterName="Roman Pearce"/>
+            <actor name="Jordanna Brewser" gender="female" CharacterName="Mia Toretto"/>
+        </MainActors>
+        <ReleaseYear> "2001" </ReleaseYear>
+        <place> "USA" </place>
+    <movie id="2">
+        <name> "Hunger Games" </name>
+        <genre> "Action" </genre>
+        <MainActors>
+            <actor name="Jennifer Lawrence" gender="female" CharacterName="Katniss Everdeen"/>
+            <actor name="Josh Hutcherson" gender="male" CharacterName="Peeta Mellark"/>
+            <actor name="Alexander Ludwig" gender="male" CharacterName="Cato Hadley"/>
+            <actor name="Woody Harrelson" gender="male" CharacterName="Haymitch Abernathy"/>
+        </MainActors>
+        <ReleaseYear> "2012" </ReleaseYear>
+        <place> "Nation of Panem (fictional)" </place>
+    </movie>
+    </movie>
+</movies>
